@@ -6,6 +6,7 @@ Automated Content Summarization and Evaluation Tool using PageRank
  Constructed the graph using NetworkX – Nodes representing Sentences and weighted edges representing cosine similarity between TF-IDF vectors of sentence.
  Using Page Rank, Top ranked sentences are selected in the summary.
 
+# NOTE : Install required Packages like NLTK & NetworkX before executing this code
 
 ALGORITHM
  T1. Preprocessing and obtaining sentences using NLTK:
